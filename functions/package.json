@@ -1,0 +1,13 @@
+{
+  "name": "vip-cool-wire-functions",
+  "description": "Cloud Functions for access-key validation",
+  "engines": {
+    "node": "18"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^12.6.0",
+    "firebase-functions": "^6.1.0"
+  },
+  "private": true
+}
